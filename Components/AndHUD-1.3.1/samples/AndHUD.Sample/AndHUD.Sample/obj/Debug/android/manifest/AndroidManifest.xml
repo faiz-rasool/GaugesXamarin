@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="AndHUD.Sample">
+  <uses-sdk android:targetSdkVersion="15" android:minSdkVersion="11" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="AndHUD.Sample" android:theme="@style/AppTheme" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="AndHUD Sample" android:name="md50bcab7001944c2edb33c03f8c8d4403e.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="AndHUD.Sample.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.AndHUD.Sample" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

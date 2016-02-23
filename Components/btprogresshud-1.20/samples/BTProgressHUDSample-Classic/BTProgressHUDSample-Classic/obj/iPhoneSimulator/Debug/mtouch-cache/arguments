@@ -1,0 +1,40 @@
+# Version: 9.4.1.25 (cycle6-xi: 962a050)
+# [first argument, ignore] # /Users/faizr-c/Desktop/GaugesXamarin/Components/btprogresshud-1.20/samples/BTProgressHUDSample-Classic/BTProgressHUDSample-Classic/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.4.1.25/bin/mtouch \
+	--cache \
+	/Users/faizr-c/Desktop/GaugesXamarin/Components/btprogresshud-1.20/samples/BTProgressHUDSample-Classic/BTProgressHUDSample-Classic/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	--sim \
+	/Users/faizr-c/Desktop/GaugesXamarin/Components/btprogresshud-1.20/samples/BTProgressHUDSample-Classic/BTProgressHUDSample-Classic/bin/iPhoneSimulator/Debug/BTProgressHUDDemo.app \
+	--executable \
+	BTProgressHUDDemo \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.2 \
+	--targetver \
+	8.0 \
+	--abi=i386 \
+	--symbollist \
+	/Users/faizr-c/Desktop/GaugesXamarin/Components/btprogresshud-1.20/samples/BTProgressHUDSample-Classic/BTProgressHUDSample-Classic/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/faizr-c/Desktop/GaugesXamarin/Components/btprogresshud-1.20/lib/ios/BTProgressHUD.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/mscorlib.dll \
+	-r \
+	/Users/faizr-c/Desktop/GaugesXamarin/Components/btprogresshud-1.20/lib/ios/BTProgressHUD.dll \
+	--target-framework \
+	"MonoTouch,v1.0" \
+	/Users/faizr-c/Desktop/GaugesXamarin/Components/btprogresshud-1.20/samples/BTProgressHUDSample-Classic/BTProgressHUDSample-Classic/bin/iPhoneSimulator/Debug//BTProgressHUDDemo.exe \

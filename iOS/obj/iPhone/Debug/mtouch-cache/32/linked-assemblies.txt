@@ -1,0 +1,5 @@
+/Users/faizr-c/Desktop/GaugesXamarin/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/faizr-c/Desktop/GaugesXamarin/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/GaugesXamarin.iOS.exe
+/Users/faizr-c/Desktop/GaugesXamarin/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+/Users/faizr-c/Desktop/GaugesXamarin/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/faizr-c/Desktop/GaugesXamarin/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/GaugesXamarin.dll

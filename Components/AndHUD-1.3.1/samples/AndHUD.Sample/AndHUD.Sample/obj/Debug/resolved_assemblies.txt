@@ -1,0 +1,9 @@
+/Users/faizr-c/Desktop/GaugesXamarin/Components/AndHUD-1.3.1/samples/AndHUD.Sample/AndHUD.Sample/obj/Debug/assemblies/AndHUD.Sample.dll
+/Users/faizr-c/Desktop/GaugesXamarin/Components/AndHUD-1.3.1/samples/AndHUD.Sample/AndHUD.Sample/obj/Debug/assemblies/System.dll
+/Users/faizr-c/Desktop/GaugesXamarin/Components/AndHUD-1.3.1/samples/AndHUD.Sample/AndHUD.Sample/obj/Debug/assemblies/System.Xml.dll
+/Users/faizr-c/Desktop/GaugesXamarin/Components/AndHUD-1.3.1/samples/AndHUD.Sample/AndHUD.Sample/obj/Debug/assemblies/Mono.Android.dll
+/Users/faizr-c/Desktop/GaugesXamarin/Components/AndHUD-1.3.1/samples/AndHUD.Sample/AndHUD.Sample/obj/Debug/assemblies/AndHUD.dll
+/Users/faizr-c/Desktop/GaugesXamarin/Components/AndHUD-1.3.1/samples/AndHUD.Sample/AndHUD.Sample/obj/Debug/assemblies/System.Core.dll
+/Users/faizr-c/Desktop/GaugesXamarin/Components/AndHUD-1.3.1/samples/AndHUD.Sample/AndHUD.Sample/obj/Debug/assemblies/mscorlib.dll
+/Users/faizr-c/Desktop/GaugesXamarin/Components/AndHUD-1.3.1/samples/AndHUD.Sample/AndHUD.Sample/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/faizr-c/Desktop/GaugesXamarin/Components/AndHUD-1.3.1/samples/AndHUD.Sample/AndHUD.Sample/obj/Debug/assemblies/System.ServiceModel.Internals.dll

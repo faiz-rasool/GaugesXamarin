@@ -1,0 +1,10 @@
+/Users/faizr-c/Desktop/GaugesXamarin/GaugesXamarin/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/faizr-c/Desktop/GaugesXamarin/GaugesXamarin/bin/Debug/GaugesXamarin.dll.mdb
+/Users/faizr-c/Desktop/GaugesXamarin/GaugesXamarin/bin/Debug/GaugesXamarin.dll
+/Users/faizr-c/Desktop/GaugesXamarin/GaugesXamarin/obj/Debug/GaugesXamarin.dll
+/Users/faizr-c/Desktop/GaugesXamarin/GaugesXamarin/obj/Debug/GaugesXamarin.dll.mdb
+/Users/faizr-c/Desktop/Xamarin/GaugesXamarin/GaugesXamarin/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/faizr-c/Desktop/Xamarin/GaugesXamarin/GaugesXamarin/bin/Debug/GaugesXamarin.dll.mdb
+/Users/faizr-c/Desktop/Xamarin/GaugesXamarin/GaugesXamarin/bin/Debug/GaugesXamarin.dll
+/Users/faizr-c/Desktop/Xamarin/GaugesXamarin/GaugesXamarin/obj/Debug/GaugesXamarin.dll
+/Users/faizr-c/Desktop/Xamarin/GaugesXamarin/GaugesXamarin/obj/Debug/GaugesXamarin.dll.mdb
